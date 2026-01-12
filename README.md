@@ -273,12 +273,3 @@ This project provides a **minimal, clean, and correct reference implementation**
 
 It is suitable for **learning, prototyping, and backend services**, and can be easily extended into production systems.
 
----
-
-If you want, I can next:
-
-* Add FastAPI
-* Convert to async
-* Add hybrid search
-* Add RAG
-* Add logging & metrics
